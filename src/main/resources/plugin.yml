@@ -1,0 +1,12 @@
+name: JumpPads
+main: net.hyphenical.jumppads.JumpPads
+author: Unknowncmbk
+version: 1.0.0
+website: www.hyphenical.net
+commands:
+    jp:
+        description: Jump Pads by Hyphenical Tech.
+        usage: /<command>
+        permission: jumppads.jp
+        permission-message: You don't have <permission>
+        default: op

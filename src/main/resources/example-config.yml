@@ -1,0 +1,35 @@
+# ---------------------------
+# Example Jump Pads Configuration
+# ---------------------------
+#
+# ---------------------------
+# Product by Hyphenical Technologies
+# Website: http://hyphenical.net
+# ---------------------------
+#
+# - Note about editing -
+# Make sure to check the YAML syntax against a YAML parser. 
+# Ex: http://yaml-online-parser.appspot.com/
+#
+# ---------------------------
+# -  Example  configuration -
+# -----  DO NOT EDIT    -----
+# ---------------------------
+#
+#
+# Version of this config, do not edit this.
+# config-version: 1
+# global-settings:
+# # The ID that the players can see and walk over.
+#   launchID: 19
+# # The ID that is under the launch ID to concatenate player velocity
+#   enhanceID: 33
+# # The horizontal velocity written as a double
+#   h-velocity: 2.0
+# # The vertical velocity written as a double
+#   v-velocity: 1.0
+#
+#
+# ---------------------------
+# End of Example Configuration
+# ---------------------------

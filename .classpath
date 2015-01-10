@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER" exported="true"/>
+	<classpathentry kind="lib" path="/Users/rya_kenshin2/.gradle/caches/modules-2/files-2.1/org.spigotmc/spigot/1.7.10-R0.1/6c6589e1bcca12faf95eac8b134409252545c28c/spigot-1.7.10-R0.1.jar" exported="true"/>
+</classpath>
