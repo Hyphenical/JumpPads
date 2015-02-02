@@ -12,7 +12,7 @@ The following are example usages of Jump Pads:
 - Players can use these jump pads in adventure maps in order to make a more difficulty parkour course.
 - Server owners can populate their hub networks with these to increase travel time between points of interest.
 
-### Snapshots
+## Snapshots
 Below is a screenshot of the default Jump Pad. The block a player runs over is the sponge. The piston is a modifier. 
 - ![alt text](http://i.imgur.com/4z7jvCkl.png "Default Jump Pad")
 
@@ -32,7 +32,7 @@ As the server owner, you can specify which block would be the 'launch' block and
 
 You can also set a double modifier for the horizontal and vertical velocity components that increase for a player's velocity.
 
-### Commands:
+## Commands:
 JumpPads comes with a set of commands, only available to players that have op or the permission node:
 ```
 - jumppads.jp
@@ -53,7 +53,7 @@ Reloads the config.yml into the JumpPads plugin.
 
 ```
 
-### Configuration:
+## Configuration:
 When JumpPads is loaded for the first time, two config.ymls are created.
 ```
 config.yml
@@ -104,5 +104,5 @@ Below is the example-config.yml with extended comments:
 ```
 
 
-### License
+## License
 A copy of the JumpPads' license can be found [here](https://github.com/Hyphenical/JumpPads/blob/master/LICENSE).
