@@ -1,6 +1,6 @@
-apply from : '../gradlesetup/deploy.gradle'
+apply from : '../gradle-super/artifactory-deploy.gradle'
 
-version = '1.0.0'
+version = '1.0.1'
 
 // http://stackoverflow.com/questions/17773817/purpose-of-buildscript-in-gradle
 buildscript {
@@ -17,5 +17,5 @@ buildscript {
 
 dependencies {
     // Spigot's software that is a fork of bukkit
-    compile group: 'org.spigotmc', name: 'spigot', version: '1.7.10-R0.1', transitive: false, { ext { fatJarExclude = true } }
+    compile group: 'org.spigotmc', name: 'spigot', version: '1.8-R0.1', transitive: false, { ext { fatJarExclude = true } }
 }
