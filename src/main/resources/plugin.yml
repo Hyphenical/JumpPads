@@ -1,7 +1,7 @@
 name: JumpPads
 main: net.hyphenical.jumppads.JumpPads
 author: Unknowncmbk
-version: 1.0.1
+version: 1.1.0
 website: www.hyphenical.net
 commands:
     jp:
