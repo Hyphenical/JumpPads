@@ -45,10 +45,10 @@ Users can access the help screen by typing:
 
 An extended description is provided below:
 ```
-- /pc version
+- /jp version
 Displays the version of this plugin.
 
-- /pc reload
+- /jp reload
 Reloads the config.yml into the JumpPads plugin.
 
 ```
